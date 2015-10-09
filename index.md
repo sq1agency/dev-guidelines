@@ -17,3 +17,5 @@ disagreements on the guidelines to a team vote.
 ## Git / Version Control
 - [Branching Structure]({{ site.baseurl }}Branching-Structure)
 - [Pull Requests and Code Reviews]({{ site.baseurl }}Pull-Requests-and-Code-Reviews)
+- [Code Ownership In the Workplace (Medium article)](https://medium.com/@mikemclaren/code-ownership-in-the-workplace-b190c2b51b10)
+- [Code Owner Checklist]({{ site.baseUrl }}Code-Owner-Checklist)
