@@ -1,0 +1,25 @@
+# Dependencies
+highlighter: pygments
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Sq1
+tagline:          'Sq1 Development Guidelines'
+description:      'A collection of development guidelines to help make great Sq1 development work efficiently and (fairly) painlessly.'
+url:              http://sq1.com
+baseurl:          /
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/
