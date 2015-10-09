@@ -13,4 +13,4 @@ disagreements on the guidelines to a team vote.
 
 ## Git / Version Control
 - [Branching Structure]({{ site.baseurl }}Branching-Structure)
-- [Pull Requests and Code Reviews]({{ site.baseurl }}Code-Requests-and-Code-Reviews.md)
+- [Pull Requests and Code Reviews]({{ site.baseurl }}Pull-Requests-and-Code-Reviews)
