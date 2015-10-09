@@ -15,8 +15,8 @@ relative_permalinks: true
 title:            Sq1
 tagline:          'Sq1 Development Guidelines'
 description:      'A collection of development guidelines to help make great Sq1 development work efficiently and (fairly) painlessly.'
-url:              http://sq1.com
-baseurl:          /
+url:              http://http://sq1agency.github.io
+baseurl:          /dev-guidelines/
 
 # Custom vars
 version:          0.0.1
