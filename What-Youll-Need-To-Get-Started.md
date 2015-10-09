@@ -13,10 +13,12 @@ __What You Need__
 
 - [Slack](https://slack.com/) : Sign up with your new Sq1 email, you'll
 be automatically added to our team!
+- [Xcode](https://developer.apple.com/xcode/)
 - [Github](https://github.com) : Send your Github username to Mike Mclaren,
 Jesse Bulpitt, or Kevin Riley to get added to the Sq1 organization and get
 access to our sweet repos.
 - [Node](https://nodejs.org/en/)
+- [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 - [Vagrant](https://www.vagrantup.com/)
 - IDE of Choice
 	- [Atom](https://atom.io/)
@@ -25,10 +27,14 @@ access to our sweet repos.
 
 __What You May Want__
 
+- [MAMP](https://www.mamp.info/en/)
 - [Sequel Pro](http://www.sequelpro.com/)
 - [iTerm](https://www.iterm2.com/index.html)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Github Desktop](https://desktop.github.com/)
+- [Cyberduck](https://cyberduck.io/?l=en) : For FTP/SFTP/S3 access
+- [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) : Get with IT to obtain a copy.
 - Browsers
+	- [modern.ie](https://dev.modern.ie/tools/vms/mac/)
 	- [Google Chrome](https://www.google.com/chrome/)
 	- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
