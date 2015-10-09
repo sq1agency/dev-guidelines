@@ -9,7 +9,7 @@ handle our branching structure in Git.
 
 _New to Git? Try out this [awesome tutorial](https://try.github.io/levels/1/challenges/1)!_
 
-![Branching Structure Overview](/public/img/branching-structure-overview.png)
+![Branching Structure Overview]({{ site.baseurl }}public/img/branching-structure-overview.png)
 
 ## Basic Concept and Terms
 We formed our branching structure around the way Pivotal Tracker handles our
